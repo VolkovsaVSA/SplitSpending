@@ -1,0 +1,153 @@
+/* No comment provided by engineer. */
+"All currencies" = "Alla valutor";
+
+/* (No Comment) */
+"Attention" = "Varning";
+
+/* (No Comment) */
+"Backup downloaded successfully." = "Säkerhetskopiering laddas.";
+
+/* (No Comment) */
+"Backup uploaded successfully." = "Säkerhetskopieringen har sparats.";
+
+/* (No Comment) */
+"Buy" = "Att köpa";
+
+/* (No Comment) */
+"Buy the full version for" = "Köp hela versionen fö";
+
+/* (No Comment) */
+"Calculate" = "Kalkylera";
+
+/* (No Comment) */
+"Cancel" = "Annullering";
+
+/* navBarTitle */
+"Currency" = "Valuta";
+
+/* (No Comment) */
+"Date" = "Datum";
+
+/* (No Comment) */
+"Delete" = "Radera";
+
+/* (No Comment) */
+"Do you really want to delete this entry?" = "Är du säker på att du vill ta bort den här posten?";
+
+/* (No Comment) */
+"Do you want to save this calculation into history?" = "Vill du spara denna beräkning i historiken?";
+
+/* (No Comment) */
+"Enable this option if you want to automatically save any changes to history. If you want to independently manage the creation of a backup, do not enable this option. Use the save and load backup buttons." = "Aktivera det här alternativet om du automatiskt vill spara ändringar i historiken. Om du vill hantera säkerhetskopian själv, aktivera inte det här alternativet. Använd reserv- och återställningsknapparna.";
+
+/* (No Comment) */
+"Enter the number of person" = "Ange antalet personer";
+
+/* (No Comment) */
+"Error" = "Fel";
+
+/* (No Comment) */
+"Expenses" = "Kostnader";
+
+/* (No Comment) */
+"Expenses per person" = "Kostnader per person";
+
+/* No comment provided by engineer. */
+"Favorites" = "Favoriter";
+
+/* (No Comment) */
+"Feedback on application 'Divider'" = "Feedback på appen \"Delare\"";
+
+/* (No Comment) */
+"Fill in all the fields!" = "Fyll i alla fält";
+
+/* (No Comment) */
+"History" = "Historia";
+
+/* (No Comment) */
+"History is available only in the full version." = "Historik är endast tillgänglig i den fullständiga versionen.";
+
+/* (No Comment) */
+"in progress" = "i processen";
+
+/* (No Comment) */
+"Loading" = "Lastning";
+
+/* (No Comment) */
+"Mail services are not available" = "E-posttjänster är inte tillgängliga";
+
+/* (No Comment) */
+"No access to iCloud. Log in to the iCloud on your device and check your internet connection." = "Ingen åtkomst till iCloud. Logga in på iCloud på din enhet och kontrollera din internetanslutning.";
+
+/* (No Comment) */
+"No internet connection to buy the full version of the application." = "Ingen internetuppkoppling för att köpa den fullständiga versionen av applikationen.";
+
+/* (No Comment) */
+"No internet connection." = "Ingen internetuppkoppling.";
+
+/* (No Comment) */
+"Number of person" = "Antal personer";
+
+/* (No Comment) */
+"Number of persons" = "Antal personer";
+
+/* (No Comment) */
+"OK" = "ОК";
+
+/* (No Comment) */
+"Payments" = "Betalningar";
+
+/* (No Comment) */
+"Payouts" = "Utbetalningar";
+
+/* (No Comment) */
+"Person" = "Persona";
+
+/* (No Comment) */
+"please wait" = "Vänta";
+
+/* (No Comment) */
+"Purchase" = "Inköp";
+
+/* (No Comment) */
+"Purchase confirmed." = "Köp bekräftat.";
+
+/* (No Comment) */
+"Purchase restored." = "Köp återställs.";
+
+/* (No Comment) */
+"Save" = "Spara";
+
+/* (No Comment) */
+"Search by name" = "Sök efter namn";
+
+/* (No Comment) */
+"Sent from the 'Divider' app" = "Skickas från appen \"Delare\"";
+
+/* (No Comment) */
+"Something went wrong. Please try again later." = "Något gick fel. Försök igen senare.";
+
+/* (No Comment) */
+"Success" = "Framgångsrikt";
+
+/* (No Comment) */
+"The backup was successful." = "Säkerhetskopian var framgångsrik.";
+
+/* (No Comment) */
+"To use this feature, purchase the full version of the program for" = "För att använda den här funktionen, köp hela versionen av programmet för";
+
+/* (No Comment) */
+"Total" = "Totalt";
+
+/* (No Comment) */
+"Total expenses" = "Totalt använt";
+
+/* (No Comment) */
+"Transaction error" = "Transaktionsfel";
+
+/* (No Comment) */
+"When you purchase the full version of the application, all the application functions will be available to you, and the ads banner will not be displayed." = "När du köper den fullständiga versionen av applikationen kommer alla funktioner i applikationen att vara tillgängliga för dig och annonserbannret visas inte.";
+
+/* (No Comment) */
+"You do not have a backup saved." = "Du har inte sparat en säkerhetskopia.";
+

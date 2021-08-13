@@ -1,0 +1,153 @@
+/* No comment provided by engineer. */
+"All currencies" = "すべての通貨";
+
+/* (No Comment) */
+"Attention" = "注意";
+
+/* (No Comment) */
+"Backup downloaded successfully." = "バックアップが正常にダウンロードされました。";
+
+/* (No Comment) */
+"Backup uploaded successfully." = "バックアップが正常にアップロードされました。";
+
+/* (No Comment) */
+"Buy" = "購入";
+
+/* (No Comment) */
+"Buy the full version for" = "のフルバージョンを購入";
+
+/* (No Comment) */
+"Calculate" = "計算する";
+
+/* (No Comment) */
+"Cancel" = "キャンセル";
+
+/* navBarTitle */
+"Currency" = "通貨";
+
+/* (No Comment) */
+"Date" = "日付";
+
+/* (No Comment) */
+"Delete" = "削除";
+
+/* (No Comment) */
+"Do you really want to delete this entry?" = "このエントリを本当に削除しますか？";
+
+/* (No Comment) */
+"Do you want to save this calculation into history?" = "この計算を履歴に保存しますか？";
+
+/* (No Comment) */
+"Enable this option if you want to automatically save any changes to history. If you want to independently manage the creation of a backup, do not enable this option. Use the save and load backup buttons." = "変更を履歴に自動的に保存する場合は、このオプションを有効にします。 バックアップの作成を個別に管理する場合は、このオプションを有効にしないでください。 保存ボタンとロードバックアップボタンを使用します。";
+
+/* (No Comment) */
+"Enter the number of person" = "人数を入力してください";
+
+/* (No Comment) */
+"Error" = "エラー";
+
+/* (No Comment) */
+"Expenses" = "経費";
+
+/* (No Comment) */
+"Expenses per person" = "一人当たりの費用";
+
+/* No comment provided by engineer. */
+"Favorites" = "お気に入り";
+
+/* (No Comment) */
+"Feedback on application 'Divider'" = "アプリケーション「仕切り」に関するフィードバック";
+
+/* (No Comment) */
+"Fill in all the fields!" = "すべてのフィールドに入力してください！";
+
+/* (No Comment) */
+"History" = "歴史";
+
+/* (No Comment) */
+"History is available only in the full version." = "履歴はフルバージョンでのみ利用可能です。";
+
+/* (No Comment) */
+"in progress" = "進行中";
+
+/* (No Comment) */
+"Loading" = "読み込み中";
+
+/* (No Comment) */
+"Mail services are not available" = "メールサービスは利用できません";
+
+/* (No Comment) */
+"No access to iCloud. Log in to the iCloud on your device and check your internet connection." = "iCloudにアクセスできません。 デバイスでiCloudにログインし、インターネット接続を確認します。";
+
+/* (No Comment) */
+"No internet connection to buy the full version of the application." = "アプリケーションのフルバージョンを購入するためのインターネット接続はありません。";
+
+/* (No Comment) */
+"No internet connection." = "インターネットに接続していません。";
+
+/* (No Comment) */
+"Number of person" = "人数";
+
+/* (No Comment) */
+"Number of persons" = "人数";
+
+/* (No Comment) */
+"OK" = "ОК";
+
+/* (No Comment) */
+"Payments" = "お支払い";
+
+/* (No Comment) */
+"Payouts" = "支払い";
+
+/* (No Comment) */
+"Person" = "人";
+
+/* (No Comment) */
+"please wait" = "お待ちください";
+
+/* (No Comment) */
+"Purchase" = "購入";
+
+/* (No Comment) */
+"Purchase confirmed." = "購入が確認されました。";
+
+/* (No Comment) */
+"Purchase restored." = "購入が復元されました。";
+
+/* (No Comment) */
+"Save" = "保存する";
+
+/* (No Comment) */
+"Search by name" = "名前で検索";
+
+/* (No Comment) */
+"Sent from the 'Divider' app" = "「仕切り」アプリから送信";
+
+/* (No Comment) */
+"Something went wrong. Please try again later." = "何かがおかしかった。 後でもう一度やり直してください。";
+
+/* (No Comment) */
+"Success" = "成功";
+
+/* (No Comment) */
+"The backup was successful." = "バックアップは成功しました。";
+
+/* (No Comment) */
+"To use this feature, purchase the full version of the program for" = "この機能を使用するには、フルバージョンのプログラムを購入してください";
+
+/* (No Comment) */
+"Total" = "合計";
+
+/* (No Comment) */
+"Total expenses" = "総費用";
+
+/* (No Comment) */
+"Transaction error" = "トランザクションエラー";
+
+/* (No Comment) */
+"When you purchase the full version of the application, all the application functions will be available to you, and the ads banner will not be displayed." = "フルバージョンのアプリケーションを購入すると、すべてのアプリケーション機能が利用可能になり、広告バナーは表示されません。";
+
+/* (No Comment) */
+"You do not have a backup saved." = "バックアップが保存されていません。";
+

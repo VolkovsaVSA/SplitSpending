@@ -1,0 +1,153 @@
+/* No comment provided by engineer. */
+"All currencies" = "Toutes les devises";
+
+/* (No Comment) */
+"Attention" = "Attention";
+
+/* (No Comment) */
+"Backup downloaded successfully." = "Sauvegarde téléchargée avec succès.";
+
+/* (No Comment) */
+"Backup uploaded successfully." = "Sauvegarde téléchargée avec succès.";
+
+/* (No Comment) */
+"Buy" = "Acheter";
+
+/* (No Comment) */
+"Buy the full version for" = "Achetez la version complète pour";
+
+/* (No Comment) */
+"Calculate" = "Calculer";
+
+/* (No Comment) */
+"Cancel" = "Annuler";
+
+/* navBarTitle */
+"Currency" = "Devise";
+
+/* (No Comment) */
+"Date" = "Dater";
+
+/* (No Comment) */
+"Delete" = "Supprimer";
+
+/* (No Comment) */
+"Do you really want to delete this entry?" = "Voulez-vous vraiment supprimer cette entrée?";
+
+/* (No Comment) */
+"Do you want to save this calculation into history?" = "Voulez-vous enregistrer ce calcul dans l'historique ?";
+
+/* (No Comment) */
+"Enable this option if you want to automatically save any changes to history. If you want to independently manage the creation of a backup, do not enable this option. Use the save and load backup buttons." = "Activez cette option si vous souhaitez enregistrer automatiquement les modifications apportées à l'historique. Si vous souhaitez gérer indépendamment la création d'une sauvegarde, n'activez pas cette option. Utilisez les boutons de sauvegarde et de chargement.";
+
+/* (No Comment) */
+"Enter the number of person" = "Entrez le nombre de personne";
+
+/* (No Comment) */
+"Error" = "Erreur";
+
+/* (No Comment) */
+"Expenses" = "Dépenses";
+
+/* (No Comment) */
+"Expenses per person" = "Dépenses par personne";
+
+/* No comment provided by engineer. */
+"Favorites" = "Favoris";
+
+/* (No Comment) */
+"Feedback on application 'Divider'" = "Retour sur l'application 'Diviseur'";
+
+/* (No Comment) */
+"Fill in all the fields!" = "Remplissez tous les champs!";
+
+/* (No Comment) */
+"History" = "Histoire";
+
+/* (No Comment) */
+"History is available only in the full version." = "L'historique est disponible uniquement dans la version complète.";
+
+/* (No Comment) */
+"in progress" = "en cours";
+
+/* (No Comment) */
+"Loading" = "Chargement";
+
+/* (No Comment) */
+"Mail services are not available" = "Les services de messagerie ne sont pas disponibles";
+
+/* (No Comment) */
+"No access to iCloud. Log in to the iCloud on your device and check your internet connection." = "Pas d'accès à iCloud. Connectez-vous à iCloud sur votre appareil et vérifiez votre connexion Internet.";
+
+/* (No Comment) */
+"No internet connection to buy the full version of the application." = "Pas de connexion Internet pour acheter la version complète de l'application.";
+
+/* (No Comment) */
+"No internet connection." = "Pas de connexion Internet.";
+
+/* (No Comment) */
+"Number of person" = "Nombre de personne";
+
+/* (No Comment) */
+"Number of persons" = "Nombre de personne";
+
+/* (No Comment) */
+"OK" = "ОК";
+
+/* (No Comment) */
+"Payments" = "Paiements";
+
+/* (No Comment) */
+"Payouts" = "Paiements";
+
+/* (No Comment) */
+"Person" = "La personne";
+
+/* (No Comment) */
+"please wait" = "attendez";
+
+/* (No Comment) */
+"Purchase" = "Achat";
+
+/* (No Comment) */
+"Purchase confirmed." = "Achat confirmé.";
+
+/* (No Comment) */
+"Purchase restored." = "Achat restauré.";
+
+/* (No Comment) */
+"Save" = "Sauver";
+
+/* (No Comment) */
+"Search by name" = "Recherche par nom";
+
+/* (No Comment) */
+"Sent from the 'Divider' app" = "Envoyé depuis l'application 'Diviseur'";
+
+/* (No Comment) */
+"Something went wrong. Please try again later." = "Quelque chose s'est mal passé. Veuillez réessayer plus tard.";
+
+/* (No Comment) */
+"Success" = "Succès";
+
+/* (No Comment) */
+"The backup was successful." = "La sauvegarde a réussi.";
+
+/* (No Comment) */
+"To use this feature, purchase the full version of the program for" = "Pour utiliser cette fonctionnalité, achetez la version complète du programme pour";
+
+/* (No Comment) */
+"Total" = "Total";
+
+/* (No Comment) */
+"Total expenses" = "Dépenses totales";
+
+/* (No Comment) */
+"Transaction error" = "Erreur de transaction";
+
+/* (No Comment) */
+"When you purchase the full version of the application, all the application functions will be available to you, and the ads banner will not be displayed." = "Lorsque vous achetez la version complète de l'application, toutes les fonctions de l'application seront disponibles et la bannière des annonces ne s'affichera pas.";
+
+/* (No Comment) */
+"You do not have a backup saved." = "Vous n'avez pas de sauvegarde enregistrée.";
+

@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Распил";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "Этот идентификатор будет использоваться для показа вам персонализированной рекламы.";
+

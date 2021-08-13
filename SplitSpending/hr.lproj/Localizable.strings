@@ -1,0 +1,153 @@
+/* No comment provided by engineer. */
+"All currencies" = "Sve valute";
+
+/* (No Comment) */
+"Attention" = "Pažnja";
+
+/* (No Comment) */
+"Backup downloaded successfully." = "Sigurnosna kopija uspješno je učitana.";
+
+/* (No Comment) */
+"Backup uploaded successfully." = "Rezervna kopija uspješno je spremljena.";
+
+/* (No Comment) */
+"Buy" = "Za kupnju";
+
+/* (No Comment) */
+"Buy the full version for" = "Kupite punu verziju za";
+
+/* (No Comment) */
+"Calculate" = "Izračunati";
+
+/* (No Comment) */
+"Cancel" = "Otkazivanje";
+
+/* navBarTitle */
+"Currency" = "Valuta";
+
+/* (No Comment) */
+"Date" = "Datum";
+
+/* (No Comment) */
+"Delete" = "Brisanje";
+
+/* (No Comment) */
+"Do you really want to delete this entry?" = "Jeste li sigurni da želite izbrisati taj unos?";
+
+/* (No Comment) */
+"Do you want to save this calculation into history?" = "Želite li ovaj izračun spremiti u povijest?";
+
+/* (No Comment) */
+"Enable this option if you want to automatically save any changes to history. If you want to independently manage the creation of a backup, do not enable this option. Use the save and load backup buttons." = "Omogućite ovu opciju ako želite automatski spremiti bilo kakve promjene u povijest. Ako želite sami upravljati sigurnosnom kopijom, nemojte omogućiti ovu opciju. Upotrijebite gumbe za sigurnosnu kopiju i vraćanje.";
+
+/* (No Comment) */
+"Enter the number of person" = "Unesite broj ljudi";
+
+/* (No Comment) */
+"Error" = "Greška";
+
+/* (No Comment) */
+"Expenses" = "Troškovi";
+
+/* (No Comment) */
+"Expenses per person" = "Troškovi po osobi";
+
+/* No comment provided by engineer. */
+"Favorites" = "Favoriti";
+
+/* (No Comment) */
+"Feedback on application 'Divider'" = "Povratne informacije o aplikaciji \"Razdjelnik\"";
+
+/* (No Comment) */
+"Fill in all the fields!" = "Ispunite sva polja";
+
+/* (No Comment) */
+"History" = "Povijest";
+
+/* (No Comment) */
+"History is available only in the full version." = "Povijest je dostupna samo u punoj verziji.";
+
+/* (No Comment) */
+"in progress" = "u procesu";
+
+/* (No Comment) */
+"Loading" = "Punjenje";
+
+/* (No Comment) */
+"Mail services are not available" = "Usluge e-pošte nisu dostupne";
+
+/* (No Comment) */
+"No access to iCloud. Log in to the iCloud on your device and check your internet connection." = "Nema pristupa iCloudu. Prijavite se na iCloud na svom uređaju i provjerite internetsku vezu.";
+
+/* (No Comment) */
+"No internet connection to buy the full version of the application." = "Nema internetske veze za kupnju pune verzije aplikacije.";
+
+/* (No Comment) */
+"No internet connection." = "Nema internetske veze.";
+
+/* (No Comment) */
+"Number of person" = "Broj ljudi";
+
+/* (No Comment) */
+"Number of persons" = "Broj ljudi";
+
+/* (No Comment) */
+"OK" = "ОК";
+
+/* (No Comment) */
+"Payments" = "Plaćanja";
+
+/* (No Comment) */
+"Payouts" = "Plaćanja";
+
+/* (No Comment) */
+"Person" = "Persona";
+
+/* (No Comment) */
+"please wait" = "molim te pričekaj";
+
+/* (No Comment) */
+"Purchase" = "Kupovina";
+
+/* (No Comment) */
+"Purchase confirmed." = "Kupnja je potvrđena.";
+
+/* (No Comment) */
+"Purchase restored." = "Kupnja je obnovljena.";
+
+/* (No Comment) */
+"Save" = "Uštedjeti";
+
+/* (No Comment) */
+"Search by name" = "Traži po imenu";
+
+/* (No Comment) */
+"Sent from the 'Divider' app" = "Poslano iz aplikacije \"Razdjelnik\"";
+
+/* (No Comment) */
+"Something went wrong. Please try again later." = "Nešto je pošlo po zlu. Pokušajte ponovo kasnije.";
+
+/* (No Comment) */
+"Success" = "Uspješno";
+
+/* (No Comment) */
+"The backup was successful." = "Rezervna kopija je bila uspješna.";
+
+/* (No Comment) */
+"To use this feature, purchase the full version of the program for" = "Da biste koristili ovu značajku, kupite punu verziju programa za";
+
+/* (No Comment) */
+"Total" = "Ukupno";
+
+/* (No Comment) */
+"Total expenses" = "Ukupno potrošeno";
+
+/* (No Comment) */
+"Transaction error" = "Pogreška transakcije";
+
+/* (No Comment) */
+"When you purchase the full version of the application, all the application functions will be available to you, and the ads banner will not be displayed." = "Kada kupite punu verziju aplikacije, sve funkcije aplikacije bit će vam dostupne, a reklamni natpis neće biti prikazan.";
+
+/* (No Comment) */
+"You do not have a backup saved." = "Nemate spremljenu sigurnosnu kopiju.";
+

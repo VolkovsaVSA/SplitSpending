@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Razdjelnik";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "Ovaj će se identifikator koristiti za isporuku prilagođenih oglasa.";
+

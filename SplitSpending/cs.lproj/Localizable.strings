@@ -1,0 +1,153 @@
+/* No comment provided by engineer. */
+"All currencies" = "Všechny měny";
+
+/* (No Comment) */
+"Attention" = "Pozor";
+
+/* (No Comment) */
+"Backup downloaded successfully." = "Záloha byla úspěšně načtena.";
+
+/* (No Comment) */
+"Backup uploaded successfully." = "Záloha byla úspěšně uložena.";
+
+/* (No Comment) */
+"Buy" = "Chcete-li koupit";
+
+/* (No Comment) */
+"Buy the full version for" = "Kupte si plnou verzi za";
+
+/* (No Comment) */
+"Calculate" = "Vypočítat";
+
+/* (No Comment) */
+"Cancel" = "Zrušit";
+
+/* navBarTitle */
+"Currency" = "Měna";
+
+/* (No Comment) */
+"Date" = "Datum";
+
+/* (No Comment) */
+"Delete" = "Odstranit";
+
+/* (No Comment) */
+"Do you really want to delete this entry?" = "Opravdu chcete tuto položku smazat?";
+
+/* (No Comment) */
+"Do you want to save this calculation into history?" = "Chcete tento výpočet uložit do historie?";
+
+/* (No Comment) */
+"Enable this option if you want to automatically save any changes to history. If you want to independently manage the creation of a backup, do not enable this option. Use the save and load backup buttons." = "Povolte tuto možnost, pokud chcete automaticky uložit všechny změny v historii. Pokud chcete zálohu spravovat sami, tuto možnost nepovolujte. Použijte tlačítka zálohování a obnovení.";
+
+/* (No Comment) */
+"Enter the number of person" = "Zadejte počet lidí";
+
+/* (No Comment) */
+"Error" = "Chyba";
+
+/* (No Comment) */
+"Expenses" = "Náklady";
+
+/* (No Comment) */
+"Expenses per person" = "Výdaje na osobu";
+
+/* No comment provided by engineer. */
+"Favorites" = "Oblíbené";
+
+/* (No Comment) */
+"Feedback on application 'Divider'" = "Zpětná vazba k aplikaci \"Dělič\"";
+
+/* (No Comment) */
+"Fill in all the fields!" = "Vyplňte všechna pole";
+
+/* (No Comment) */
+"History" = "Dějiny";
+
+/* (No Comment) */
+"History is available only in the full version." = "Historie je k dispozici pouze v plné verzi.";
+
+/* (No Comment) */
+"in progress" = "v procesu";
+
+/* (No Comment) */
+"Loading" = "Načítání";
+
+/* (No Comment) */
+"Mail services are not available" = "E-mailové služby nejsou k dispozici";
+
+/* (No Comment) */
+"No access to iCloud. Log in to the iCloud on your device and check your internet connection." = "Žádný přístup k iCloud. Přihlaste se do zařízení iCloud na svém zařízení a zkontrolujte připojení k internetu.";
+
+/* (No Comment) */
+"No internet connection to buy the full version of the application." = "Žádné připojení k internetu ke koupi plné verze aplikace.";
+
+/* (No Comment) */
+"No internet connection." = "Žádné připojení k internetu.";
+
+/* (No Comment) */
+"Number of person" = "Počet lidí";
+
+/* (No Comment) */
+"Number of persons" = "Počet lidí";
+
+/* (No Comment) */
+"OK" = "ОК";
+
+/* (No Comment) */
+"Payments" = "Platby";
+
+/* (No Comment) */
+"Payouts" = "Výplaty";
+
+/* (No Comment) */
+"Person" = "Osoba";
+
+/* (No Comment) */
+"please wait" = "počkejte prosím";
+
+/* (No Comment) */
+"Purchase" = "Nákup";
+
+/* (No Comment) */
+"Purchase confirmed." = "Nákup potvrzen.";
+
+/* (No Comment) */
+"Purchase restored." = "Nákup byl obnoven.";
+
+/* (No Comment) */
+"Save" = "Uložit";
+
+/* (No Comment) */
+"Search by name" = "Hledat podle jména";
+
+/* (No Comment) */
+"Sent from the 'Divider' app" = "Odesláno z aplikace \"Dělič\"";
+
+/* (No Comment) */
+"Something went wrong. Please try again later." = "Něco se pokazilo. Zkuste to prosím znovu později.";
+
+/* (No Comment) */
+"Success" = "Úspěšné";
+
+/* (No Comment) */
+"The backup was successful." = "Záloha byla úspěšná.";
+
+/* (No Comment) */
+"To use this feature, purchase the full version of the program for" = "Chcete-li tuto funkci použít, zakupte plnou verzi programu pro";
+
+/* (No Comment) */
+"Total" = "Celkem";
+
+/* (No Comment) */
+"Total expenses" = "Celkem utráceno";
+
+/* (No Comment) */
+"Transaction error" = "Chyba transakce";
+
+/* (No Comment) */
+"When you purchase the full version of the application, all the application functions will be available to you, and the ads banner will not be displayed." = "Když si zakoupíte plnou verzi aplikace, budou vám k dispozici všechny funkce aplikace a reklamní banner nebude zobrazen.";
+
+/* (No Comment) */
+"You do not have a backup saved." = "Nemáte uloženou zálohu.";
+

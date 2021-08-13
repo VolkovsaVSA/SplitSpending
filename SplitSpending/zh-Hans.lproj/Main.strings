@@ -1,0 +1,135 @@
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "0Ma-Dv-Rr0"; */
+"0Ma-Dv-Rr0.normalTitle" = "分享";
+
+/* Class = "UIButton"; normalTitle = "..."; ObjectID = "2C4-Fe-Mcw"; */
+"2C4-Fe-Mcw.normalTitle" = "...";
+
+/* Class = "UILabel"; text = "Number of persons"; ObjectID = "4r3-3O-HKC"; */
+"4r3-3O-HKC.text" = "人数";
+
+/* Class = "UIButton"; normalTitle = "Restore purchases"; ObjectID = "4zy-82-maJ"; */
+"4zy-82-maJ.normalTitle" = "恢复购买";
+
+/* Class = "UILabel"; text = "textLabel"; ObjectID = "5Vp-D1-xYW"; */
+"5Vp-D1-xYW.text" = "textLabel";
+
+/* Class = "UILabel"; text = "divide by persons:"; ObjectID = "6QG-8n-oFu"; */
+"6QG-8n-oFu.text" = "被除以：";
+
+/* Class = "UILabel"; text = "Backup is available only in the full version."; ObjectID = "8MX-oa-NK3"; */
+"8MX-oa-NK3.text" = "备份仅在完整版本中可用。";
+
+/* Class = "UITableViewSection"; headerTitle = "Purchases"; ObjectID = "21J-5j-pzR"; */
+"21J-5j-pzR.headerTitle" = "购买";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "27S-iH-YhJ"; */
+"27S-iH-YhJ.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "50Z-KA-7Sm"; */
+"50Z-KA-7Sm.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Add-bf-iGY"; */
+"Add-bf-iGY.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "aeG-2d-PUY"; */
+"aeG-2d-PUY.title" = "设定值";
+
+/* Class = "UILabel"; text = "Enable automatic backup history to iCloud"; ObjectID = "aWC-Se-auB"; */
+"aWC-Se-auB.text" = "启用自动备份历史记录到iCloud";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "ceC-WD-0cH"; */
+"ceC-WD-0cH.normalTitle" = "计算";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "CgD-c9-1B9"; */
+"CgD-c9-1B9.normalTitle" = "2";
+
+/* Class = "UITableViewSection"; headerTitle = "Currency"; ObjectID = "CGf-pd-0A6"; */
+"CGf-pd-0A6.headerTitle" = "货币";
+
+/* Class = "UIButton"; normalTitle = "Other apps"; ObjectID = "DDL-hY-88d"; */
+"DDL-hY-88d.normalTitle" = "其他应用";
+
+/* Class = "UILabel"; text = "Show currency code"; ObjectID = "eAS-JM-pcq"; */
+"eAS-JM-pcq.text" = "显示货币代码";
+
+/* Class = "UILabel"; text = "CreditorName"; ObjectID = "eWA-XS-Y4F"; */
+"eWA-XS-Y4F.text" = "CreditorName";
+
+/* Class = "UITextField"; placeholder = "Sum"; ObjectID = "fn4-i6-GAE"; */
+"fn4-i6-GAE.placeholder" = "和";
+
+/* Class = "UIButton"; normalTitle = "Rate the app"; ObjectID = "i9s-sg-8So"; */
+"i9s-sg-8So.normalTitle" = "评价应用";
+
+/* Class = "UIButton"; normalTitle = "Save data"; ObjectID = "kck-hG-dfM"; */
+"kck-hG-dfM.normalTitle" = "保存数据";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "NiH-KH-Hve"; */
+"NiH-KH-Hve.normalTitle" = "4";
+
+/* Class = "UITableViewSection"; headerTitle = "Backup data to iCloud"; ObjectID = "O6H-KC-mtK"; */
+"O6H-KC-mtK.headerTitle" = "反馈";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "OCj-7f-5X9"; */
+"OCj-7f-5X9.text" = "0";
+
+/* Class = "UILabel"; text = "Total expenses"; ObjectID = "oeJ-3i-YxZ"; */
+"oeJ-3i-YxZ.text" = "总支出";
+
+/* Class = "UINavigationItem"; title = "Detailed history"; ObjectID = "OFf-Rk-wtW"; */
+"OFf-Rk-wtW.title" = "详细的历史";
+
+/* Class = "UILabel"; text = "amount"; ObjectID = "OWw-26-8hR"; */
+"OWw-26-8hR.text" = "量";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "PgW-5B-eg2"; */
+"PgW-5B-eg2.title" = "背部";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "PHq-rf-d3R"; */
+"PHq-rf-d3R.text" = "Title";
+
+/* Class = "UILabel"; text = "DebtorName"; ObjectID = "QjB-yF-IXc"; */
+"QjB-yF-IXc.text" = "DebtorName";
+
+/* Class = "UILabel"; text = "Per person"; ObjectID = "qXg-0P-z7F"; */
+"qXg-0P-z7F.text" = "每人费用";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "T4v-Oq-kUN"; */
+"T4v-Oq-kUN.normalTitle" = "背部";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "tMn-Ru-HRV"; */
+"tMn-Ru-HRV.title" = "背部";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Uu8-xY-5ec"; */
+"Uu8-xY-5ec.title" = "历史";
+
+/* Class = "UIButton"; normalTitle = "Choose currency"; ObjectID = "v7o-9B-v82"; */
+"v7o-9B-v82.normalTitle" = "选择货币";
+
+/* Class = "UILabel"; text = "Total expenses"; ObjectID = "vsg-8p-NDt"; */
+"vsg-8p-NDt.text" = "总支出";
+
+/* Class = "UILabel"; text = "detailLabel"; ObjectID = "vy2-wq-gcz"; */
+"vy2-wq-gcz.text" = "detailLabel";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "wzS-A2-mKd"; */
+"wzS-A2-mKd.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "Recover data"; ObjectID = "X7o-Ux-OFK"; */
+"X7o-Ux-OFK.normalTitle" = "恢复数据";
+
+/* Class = "UIButton"; normalTitle = "Send an email to the developer"; ObjectID = "xMY-wA-B6D"; */
+"xMY-wA-B6D.normalTitle" = "发送电子邮件给开发人员";
+
+/* Class = "UILabel"; text = "Payouts:"; ObjectID = "yWX-dI-bCK"; */
+"yWX-dI-bCK.text" = "付款：";
+
+/* Class = "UIButton"; normalTitle = "Buy full version"; ObjectID = "zIi-RQ-gDY"; */
+"zIi-RQ-gDY.normalTitle" = "购买完整版";
+
+/* Class = "UITableViewSection"; headerTitle = "Feedback"; ObjectID = "ZJA-OV-eVd"; */
+"ZJA-OV-eVd.headerTitle" = "反馈";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "Zjp-qU-Chb"; */
+"Zjp-qU-Chb.normalTitle" = "3";
+

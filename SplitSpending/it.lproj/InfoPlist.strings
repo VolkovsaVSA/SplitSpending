@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Divisore";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "Questo identificatore verrà utilizzato per fornirti annunci personalizzati.";
+

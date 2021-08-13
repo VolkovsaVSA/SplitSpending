@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MathExpression",
+        "repositoryURL": "https://github.com/peredaniel/MathExpression.git",
+        "state": {
+          "branch": null,
+          "revision": "12828f309761061d3842ab016a77977248983a26",
+          "version": "1.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

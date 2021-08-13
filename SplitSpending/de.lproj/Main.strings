@@ -1,0 +1,135 @@
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "0Ma-Dv-Rr0"; */
+"0Ma-Dv-Rr0.normalTitle" = "Aktie";
+
+/* Class = "UIButton"; normalTitle = "..."; ObjectID = "2C4-Fe-Mcw"; */
+"2C4-Fe-Mcw.normalTitle" = "...";
+
+/* Class = "UILabel"; text = "Number of persons"; ObjectID = "4r3-3O-HKC"; */
+"4r3-3O-HKC.text" = "Personenzahl";
+
+/* Class = "UIButton"; normalTitle = "Restore purchases"; ObjectID = "4zy-82-maJ"; */
+"4zy-82-maJ.normalTitle" = "Kauf wiederherstellen";
+
+/* Class = "UILabel"; text = "textLabel"; ObjectID = "5Vp-D1-xYW"; */
+"5Vp-D1-xYW.text" = "textLabel";
+
+/* Class = "UILabel"; text = "divide by persons:"; ObjectID = "6QG-8n-oFu"; */
+"6QG-8n-oFu.text" = "Teilen durch:";
+
+/* Class = "UILabel"; text = "Backup is available only in the full version."; ObjectID = "8MX-oa-NK3"; */
+"8MX-oa-NK3.text" = "Backup ist nur in der Vollversion verfügbar.";
+
+/* Class = "UITableViewSection"; headerTitle = "Purchases"; ObjectID = "21J-5j-pzR"; */
+"21J-5j-pzR.headerTitle" = "Einkäufe";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "27S-iH-YhJ"; */
+"27S-iH-YhJ.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "50Z-KA-7Sm"; */
+"50Z-KA-7Sm.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Add-bf-iGY"; */
+"Add-bf-iGY.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "aeG-2d-PUY"; */
+"aeG-2d-PUY.title" = "Settings";
+
+/* Class = "UILabel"; text = "Enable automatic backup history to iCloud"; ObjectID = "aWC-Se-auB"; */
+"aWC-Se-auB.text" = "Aktivieren Sie den automatischen Sicherungsverlauf in iCloud";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "ceC-WD-0cH"; */
+"ceC-WD-0cH.normalTitle" = "Berechnung";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "CgD-c9-1B9"; */
+"CgD-c9-1B9.normalTitle" = "2";
+
+/* Class = "UITableViewSection"; headerTitle = "Currency"; ObjectID = "CGf-pd-0A6"; */
+"CGf-pd-0A6.headerTitle" = "Währung";
+
+/* Class = "UIButton"; normalTitle = "Other apps"; ObjectID = "DDL-hY-88d"; */
+"DDL-hY-88d.normalTitle" = "Andere Apps";
+
+/* Class = "UILabel"; text = "Show currency code"; ObjectID = "eAS-JM-pcq"; */
+"eAS-JM-pcq.text" = "Währungscode anzeigen";
+
+/* Class = "UILabel"; text = "CreditorName"; ObjectID = "eWA-XS-Y4F"; */
+"eWA-XS-Y4F.text" = "CreditorName";
+
+/* Class = "UITextField"; placeholder = "Sum"; ObjectID = "fn4-i6-GAE"; */
+"fn4-i6-GAE.placeholder" = "Summe";
+
+/* Class = "UIButton"; normalTitle = "Rate the app"; ObjectID = "i9s-sg-8So"; */
+"i9s-sg-8So.normalTitle" = "Bewerten Sie die App";
+
+/* Class = "UIButton"; normalTitle = "Save data"; ObjectID = "kck-hG-dfM"; */
+"kck-hG-dfM.normalTitle" = "Daten speichern";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "NiH-KH-Hve"; */
+"NiH-KH-Hve.normalTitle" = "4";
+
+/* Class = "UITableViewSection"; headerTitle = "Backup data to iCloud"; ObjectID = "O6H-KC-mtK"; */
+"O6H-KC-mtK.headerTitle" = "Feedback";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "OCj-7f-5X9"; */
+"OCj-7f-5X9.text" = "0";
+
+/* Class = "UILabel"; text = "Total expenses"; ObjectID = "oeJ-3i-YxZ"; */
+"oeJ-3i-YxZ.text" = "Gesamtausgaben";
+
+/* Class = "UINavigationItem"; title = "Detailed history"; ObjectID = "OFf-Rk-wtW"; */
+"OFf-Rk-wtW.title" = "Ausführliche Geschichte";
+
+/* Class = "UILabel"; text = "amount"; ObjectID = "OWw-26-8hR"; */
+"OWw-26-8hR.text" = "Menge";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "PgW-5B-eg2"; */
+"PgW-5B-eg2.title" = "Zurück";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "PHq-rf-d3R"; */
+"PHq-rf-d3R.text" = "Title";
+
+/* Class = "UILabel"; text = "DebtorName"; ObjectID = "QjB-yF-IXc"; */
+"QjB-yF-IXc.text" = "DebtorName";
+
+/* Class = "UILabel"; text = "Per person"; ObjectID = "qXg-0P-z7F"; */
+"qXg-0P-z7F.text" = "Kosten pro Person";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "T4v-Oq-kUN"; */
+"T4v-Oq-kUN.normalTitle" = "Zurück";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "tMn-Ru-HRV"; */
+"tMn-Ru-HRV.title" = "Zurück";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Uu8-xY-5ec"; */
+"Uu8-xY-5ec.title" = "Geschichte";
+
+/* Class = "UIButton"; normalTitle = "Choose currency"; ObjectID = "v7o-9B-v82"; */
+"v7o-9B-v82.normalTitle" = "Währung wählen";
+
+/* Class = "UILabel"; text = "Total expenses"; ObjectID = "vsg-8p-NDt"; */
+"vsg-8p-NDt.text" = "Gesamtkosten";
+
+/* Class = "UILabel"; text = "detailLabel"; ObjectID = "vy2-wq-gcz"; */
+"vy2-wq-gcz.text" = "detailLabel";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "wzS-A2-mKd"; */
+"wzS-A2-mKd.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "Recover data"; ObjectID = "X7o-Ux-OFK"; */
+"X7o-Ux-OFK.normalTitle" = "Daten wiederherstellen";
+
+/* Class = "UIButton"; normalTitle = "Send an email to the developer"; ObjectID = "xMY-wA-B6D"; */
+"xMY-wA-B6D.normalTitle" = "Senden Sie eine E-Mail an den Entwickler";
+
+/* Class = "UILabel"; text = "Payouts:"; ObjectID = "yWX-dI-bCK"; */
+"yWX-dI-bCK.text" = "Auszahlungen:";
+
+/* Class = "UIButton"; normalTitle = "Buy full version"; ObjectID = "zIi-RQ-gDY"; */
+"zIi-RQ-gDY.normalTitle" = "Vollversion kaufen";
+
+/* Class = "UITableViewSection"; headerTitle = "Feedback"; ObjectID = "ZJA-OV-eVd"; */
+"ZJA-OV-eVd.headerTitle" = "Feedback";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "Zjp-qU-Chb"; */
+"Zjp-qU-Chb.normalTitle" = "3";
+

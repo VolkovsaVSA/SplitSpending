@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "仕切り";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "この識別子は、パーソナライズされた広告を配信するために使用されます。";
+

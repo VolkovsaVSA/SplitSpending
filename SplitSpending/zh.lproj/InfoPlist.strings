@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "分频器";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "此标识符将用于向您投放个性化广告。";
+

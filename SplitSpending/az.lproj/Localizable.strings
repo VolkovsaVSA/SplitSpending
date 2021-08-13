@@ -1,0 +1,153 @@
+/* No comment provided by engineer. */
+"All currencies" = "Все валюты";
+
+/* (No Comment) */
+"Attention" = "Внимание";
+
+/* (No Comment) */
+"Backup downloaded successfully." = "Резервное копирование успешно загружено.";
+
+/* (No Comment) */
+"Backup uploaded successfully." = "Резервное копирование успешно сохранено.";
+
+/* (No Comment) */
+"Buy" = "Купить";
+
+/* (No Comment) */
+"Buy the full version for" = "Купить полную версию за";
+
+/* (No Comment) */
+"Calculate" = "Рассчитать";
+
+/* (No Comment) */
+"Cancel" = "Отмена";
+
+/* navBarTitle */
+"Currency" = "Валюта";
+
+/* (No Comment) */
+"Date" = "Дата";
+
+/* (No Comment) */
+"Delete" = "Удалить";
+
+/* (No Comment) */
+"Do you really want to delete this entry?" = "Вы действительно хотите удалить эту запись?";
+
+/* (No Comment) */
+"Do you want to save this calculation into history?" = "Вы хотите сохранить этот расчёт в истории?";
+
+/* (No Comment) */
+"Enable this option if you want to automatically save any changes to history. If you want to independently manage the creation of a backup, do not enable this option. Use the save and load backup buttons." = "Включите эту опцию, если вы хотите автоматически сохранять любые изменения в истории. Если вы хотите самостоятельно управлять созданием резервной копии, не включайте эту опцию. Используйте кнопки сохранения и восстановления резервной копии.";
+
+/* (No Comment) */
+"Enter the number of person" = "Введите количество человек";
+
+/* (No Comment) */
+"Error" = "Ошибка";
+
+/* (No Comment) */
+"Expenses" = "Затраты";
+
+/* (No Comment) */
+"Expenses per person" = "Расходы на человека";
+
+/* No comment provided by engineer. */
+"Favorites" = "Избранное";
+
+/* (No Comment) */
+"Feedback on application 'Divider'" = "Отзыв о приложении «Распил»";
+
+/* (No Comment) */
+"Fill in all the fields!" = "Заполните все поля";
+
+/* (No Comment) */
+"History" = "История";
+
+/* (No Comment) */
+"History is available only in the full version." = "История доступна только в полной версии.";
+
+/* (No Comment) */
+"in progress" = "в процессе";
+
+/* (No Comment) */
+"Loading" = "Загрузка";
+
+/* (No Comment) */
+"Mail services are not available" = "Почтовые сервисы недоступны";
+
+/* (No Comment) */
+"No access to iCloud. Log in to the iCloud on your device and check your internet connection." = "Нет доступа к iCloud. Войдите в iCloud на своем устройстве и проверьте подключение к Интернету.";
+
+/* (No Comment) */
+"No internet connection to buy the full version of the application." = "Нет подключения к интернету, чтобы купить полную версию приложения.";
+
+/* (No Comment) */
+"No internet connection." = "Подключение к Интернету отсутствует.";
+
+/* (No Comment) */
+"Number of person" = "Количество человек";
+
+/* (No Comment) */
+"Number of persons" = "Количество человек";
+
+/* (No Comment) */
+"OK" = "ОК";
+
+/* (No Comment) */
+"Payments" = "Платежи";
+
+/* (No Comment) */
+"Payouts" = "Выплаты";
+
+/* (No Comment) */
+"Person" = "Персона";
+
+/* (No Comment) */
+"please wait" = "пожалуйста, ждите";
+
+/* (No Comment) */
+"Purchase" = "Покупка";
+
+/* (No Comment) */
+"Purchase confirmed." = "Покупка подтверждена.";
+
+/* (No Comment) */
+"Purchase restored." = "Покупка восстановлена.";
+
+/* (No Comment) */
+"Save" = "Сохранить";
+
+/* (No Comment) */
+"Search by name" = "Поиск по имени";
+
+/* (No Comment) */
+"Sent from the 'Divider' app" = "Отправлено из приложения «Распил»";
+
+/* (No Comment) */
+"Something went wrong. Please try again later." = "Что-то пошло не так. Пожалуйста, повторите попытку позже.";
+
+/* (No Comment) */
+"Success" = "Успешно";
+
+/* (No Comment) */
+"The backup was successful." = "Резервное копирование прошло успешно.";
+
+/* (No Comment) */
+"To use this feature, purchase the full version of the program for" = "Чтобы использовать эту функцию, купите полную версию программы за";
+
+/* (No Comment) */
+"Total" = "Итого";
+
+/* (No Comment) */
+"Total expenses" = "Всего потрачено";
+
+/* (No Comment) */
+"Transaction error" = "Ошибка транзакции";
+
+/* (No Comment) */
+"When you purchase the full version of the application, all the application functions will be available to you, and the ads banner will not be displayed." = "При покупке полной версии приложения все функции приложения будут вам доступны, а рекламный баннер не будет отображаться.";
+
+/* (No Comment) */
+"You do not have a backup saved." = "У вас нет сохраненной резервной копии.";
+

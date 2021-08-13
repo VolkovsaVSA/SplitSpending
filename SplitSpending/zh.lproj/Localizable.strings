@@ -1,0 +1,153 @@
+/* No comment provided by engineer. */
+"All currencies" = "所有货币";
+
+/* (No Comment) */
+"Attention" = "注意";
+
+/* (No Comment) */
+"Backup downloaded successfully." = "备份下载成功。";
+
+/* (No Comment) */
+"Backup uploaded successfully." = "备份上传成功。";
+
+/* (No Comment) */
+"Buy" = "购买";
+
+/* (No Comment) */
+"Buy the full version for" = "购买完整版";
+
+/* (No Comment) */
+"Calculate" = "计算";
+
+/* (No Comment) */
+"Cancel" = "取消";
+
+/* navBarTitle */
+"Currency" = "货币";
+
+/* (No Comment) */
+"Date" = "日期";
+
+/* (No Comment) */
+"Delete" = "删除";
+
+/* (No Comment) */
+"Do you really want to delete this entry?" = "您真的要删除此条目吗？";
+
+/* (No Comment) */
+"Do you want to save this calculation into history?" = "您想将此计算保存到历史记录中吗？";
+
+/* (No Comment) */
+"Enable this option if you want to automatically save any changes to history. If you want to independently manage the creation of a backup, do not enable this option. Use the save and load backup buttons." = "如果要自动保存对历史记录的任何更改，请启用此选项。 如果要独立管理备份的创建，请不要启用此选项。 使用保存和加载备份按钮。\n";
+
+/* (No Comment) */
+"Enter the number of person" = "输入人数";
+
+/* (No Comment) */
+"Error" = "错误";
+
+/* (No Comment) */
+"Expenses" = "花费";
+
+/* (No Comment) */
+"Expenses per person" = "每人费用";
+
+/* No comment provided by engineer. */
+"Favorites" = "收藏夹";
+
+/* (No Comment) */
+"Feedback on application 'Divider'" = "对应用程序“ 分频器”的反馈";
+
+/* (No Comment) */
+"Fill in all the fields!" = "填写所有字段！";
+
+/* (No Comment) */
+"History" = "历史";
+
+/* (No Comment) */
+"History is available only in the full version." = "历史记录仅在完整版本中可用。";
+
+/* (No Comment) */
+"in progress" = "进行中";
+
+/* (No Comment) */
+"Loading" = "载入中";
+
+/* (No Comment) */
+"Mail services are not available" = "邮件服务不可用";
+
+/* (No Comment) */
+"No access to iCloud. Log in to the iCloud on your device and check your internet connection." = "无法访问iCloud。 登录设备上的iCloud并检查您的互联网连接。";
+
+/* (No Comment) */
+"No internet connection to buy the full version of the application." = "没有互联网连接即可购买完整版应用程序。";
+
+/* (No Comment) */
+"No internet connection." = "没有网络连接。\n";
+
+/* (No Comment) */
+"Number of person" = "人数";
+
+/* (No Comment) */
+"Number of persons" = "人数";
+
+/* (No Comment) */
+"OK" = "好";
+
+/* (No Comment) */
+"Payments" = "付款方式";
+
+/* (No Comment) */
+"Payouts" = "支出";
+
+/* (No Comment) */
+"Person" = "人";
+
+/* (No Comment) */
+"please wait" = "请耐心等待";
+
+/* (No Comment) */
+"Purchase" = "采购";
+
+/* (No Comment) */
+"Purchase confirmed." = "购买已确认。";
+
+/* (No Comment) */
+"Purchase restored." = "购买已恢复。";
+
+/* (No Comment) */
+"Save" = "节省";
+
+/* (No Comment) */
+"Search by name" = "依名称搜寻";
+
+/* (No Comment) */
+"Sent from the 'Divider' app" = "从“ 分频器”应用发送";
+
+/* (No Comment) */
+"Something went wrong. Please try again later." = "出问题了。 请稍后再试。";
+
+/* (No Comment) */
+"Success" = "成功";
+
+/* (No Comment) */
+"The backup was successful." = "备份成功。";
+
+/* (No Comment) */
+"To use this feature, purchase the full version of the program for" = "要使用此功能，请购买完整版程序，价格为";
+
+/* (No Comment) */
+"Total" = "总";
+
+/* (No Comment) */
+"Total expenses" = "总支出";
+
+/* (No Comment) */
+"Transaction error" = "交易错误";
+
+/* (No Comment) */
+"When you purchase the full version of the application, all the application functions will be available to you, and the ads banner will not be displayed." = "购买完整版应用程序后，您将可以使用所有应用程序功能，并且不会显示广告横幅。";
+
+/* (No Comment) */
+"You do not have a backup saved." = "您没有保存备份。";
+

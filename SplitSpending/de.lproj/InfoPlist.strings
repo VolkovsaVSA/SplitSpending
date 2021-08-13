@@ -1,0 +1,6 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Teiler";
+
+/* Privacy - Tracking Usage Description */
+"NSUserTrackingUsageDescription" = "Denna identifierare kommer att användas för att leverera personliga annonser till dig.";
+

@@ -1,0 +1,132 @@
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "0Ma-Dv-Rr0"; */
+"0Ma-Dv-Rr0.normalTitle" = "Podíl";
+
+/* Class = "UIButton"; normalTitle = "..."; ObjectID = "2C4-Fe-Mcw"; */
+"2C4-Fe-Mcw.normalTitle" = "...";
+
+/* Class = "UILabel"; text = "Number of persons"; ObjectID = "4r3-3O-HKC"; */
+"4r3-3O-HKC.text" = "Počet osob";
+
+/* Class = "UIButton"; normalTitle = "Restore purchases"; ObjectID = "4zy-82-maJ"; */
+"4zy-82-maJ.normalTitle" = "Obnovit nákupy";
+
+/* Class = "UILabel"; text = "textLabel"; ObjectID = "5Vp-D1-xYW"; */
+"5Vp-D1-xYW.text" = "textLabel";
+
+/* Class = "UILabel"; text = "divide by persons:"; ObjectID = "6QG-8n-oFu"; */
+"6QG-8n-oFu.text" = "dělí se podle osob:";
+
+/* Class = "UILabel"; text = "Backup is available only in the full version."; ObjectID = "8MX-oa-NK3"; */
+"8MX-oa-NK3.text" = "Záloha je k dispozici pouze v plné verzi.";
+
+/* Class = "UITableViewSection"; headerTitle = "Purchases"; ObjectID = "21J-5j-pzR"; */
+"21J-5j-pzR.headerTitle" = "Nákupy";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "27S-iH-YhJ"; */
+"27S-iH-YhJ.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "50Z-KA-7Sm"; */
+"50Z-KA-7Sm.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Add-bf-iGY"; */
+"Add-bf-iGY.text" = "0";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "aeG-2d-PUY"; */
+"aeG-2d-PUY.title" = "Nastavení";
+
+/* Class = "UILabel"; text = "Enable automatic backup history to iCloud"; ObjectID = "aWC-Se-auB"; */
+"aWC-Se-auB.text" = "Povolte automatickou historii zálohování do iCloud";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "ceC-WD-0cH"; */
+"ceC-WD-0cH.normalTitle" = "Vypočítat";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "CgD-c9-1B9"; */
+"CgD-c9-1B9.normalTitle" = "2";
+
+/* Class = "UITableViewSection"; headerTitle = "Currency"; ObjectID = "CGf-pd-0A6"; */
+"CGf-pd-0A6.headerTitle" = "Měna";
+
+/* Class = "UIButton"; normalTitle = "Other apps"; ObjectID = "DDL-hY-88d"; */
+"DDL-hY-88d.normalTitle" = "Další aplikace";
+
+/* Class = "UILabel"; text = "Show currency code"; ObjectID = "eAS-JM-pcq"; */
+"eAS-JM-pcq.text" = "Zobrazit kód měny";
+
+/* Class = "UILabel"; text = "CreditorName"; ObjectID = "eWA-XS-Y4F"; */
+"eWA-XS-Y4F.text" = "CreditorName";
+
+/* Class = "UITextField"; placeholder = "Sum"; ObjectID = "fn4-i6-GAE"; */
+"fn4-i6-GAE.placeholder" = "Sum";
+
+/* Class = "UIButton"; normalTitle = "Rate the app"; ObjectID = "i9s-sg-8So"; */
+"i9s-sg-8So.normalTitle" = "Ohodnoťte aplikaci";
+
+/* Class = "UIButton"; normalTitle = "Save data"; ObjectID = "kck-hG-dfM"; */
+"kck-hG-dfM.normalTitle" = "Uložit data";
+
+/* Class = "UIButton"; normalTitle = "4"; ObjectID = "NiH-KH-Hve"; */
+"NiH-KH-Hve.normalTitle" = "4";
+
+/* Class = "UITableViewSection"; headerTitle = "Backup data to iCloud"; ObjectID = "O6H-KC-mtK"; */
+"O6H-KC-mtK.headerTitle" = "Zálohujte data do iCloud";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "OCj-7f-5X9"; */
+"OCj-7f-5X9.text" = "0";
+
+/* Class = "UILabel"; text = "Total expenses"; ObjectID = "oeJ-3i-YxZ"; */
+"oeJ-3i-YxZ.text" = "Celkové výdaje";
+
+/* Class = "UINavigationItem"; title = "Detailed history"; ObjectID = "OFf-Rk-wtW"; */
+"OFf-Rk-wtW.title" = "Podrobná historie";
+
+/* Class = "UILabel"; text = "amount"; ObjectID = "OWw-26-8hR"; */
+"OWw-26-8hR.text" = "množství";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "PgW-5B-eg2"; */
+"PgW-5B-eg2.title" = "Zadní";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "PHq-rf-d3R"; */
+"PHq-rf-d3R.text" = "Title";
+
+/* Class = "UILabel"; text = "DebtorName"; ObjectID = "QjB-yF-IXc"; */
+"QjB-yF-IXc.text" = "DebtorName";
+
+/* Class = "UILabel"; text = "Per person"; ObjectID = "qXg-0P-z7F"; */
+"qXg-0P-z7F.text" = "Za osobu";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "T4v-Oq-kUN"; */
+"T4v-Oq-kUN.normalTitle" = "Zadní";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "tMn-Ru-HRV"; */
+"tMn-Ru-HRV.title" = "Zadní";
+
+/* Class = "UINavigationItem"; title = "History"; ObjectID = "Uu8-xY-5ec"; */
+"Uu8-xY-5ec.title" = "Dějiny";
+
+/* Class = "UILabel"; text = "Total expenses"; ObjectID = "vsg-8p-NDt"; */
+"vsg-8p-NDt.text" = "Celkové výdaje";
+
+/* Class = "UILabel"; text = "detailLabel"; ObjectID = "vy2-wq-gcz"; */
+"vy2-wq-gcz.text" = "detailLabel";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "wzS-A2-mKd"; */
+"wzS-A2-mKd.text" = "Subtitle";
+
+/* Class = "UIButton"; normalTitle = "Recover data"; ObjectID = "X7o-Ux-OFK"; */
+"X7o-Ux-OFK.normalTitle" = "Obnovte data";
+
+/* Class = "UIButton"; normalTitle = "Send an email to the developer"; ObjectID = "xMY-wA-B6D"; */
+"xMY-wA-B6D.normalTitle" = "Pošlete e-mail vývojáři";
+
+/* Class = "UILabel"; text = "Payouts:"; ObjectID = "yWX-dI-bCK"; */
+"yWX-dI-bCK.text" = "Výplaty:";
+
+/* Class = "UIButton"; normalTitle = "Buy full version"; ObjectID = "zIi-RQ-gDY"; */
+"zIi-RQ-gDY.normalTitle" = "Kup plnou verzi";
+
+/* Class = "UITableViewSection"; headerTitle = "Feedback"; ObjectID = "ZJA-OV-eVd"; */
+"ZJA-OV-eVd.headerTitle" = "Zpětná vazba";
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "Zjp-qU-Chb"; */
+"Zjp-qU-Chb.normalTitle" = "3";
+
