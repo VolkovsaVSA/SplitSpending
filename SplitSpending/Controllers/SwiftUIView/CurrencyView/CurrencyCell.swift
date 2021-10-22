@@ -32,9 +32,13 @@ struct CurrencyCell: View {
             Button(action: {
                 
                 if currencyListVM.favoritesCurrency.contains(item) {
-                    currencyListVM.removeFromFavorites(currency: item)
+                    withAnimation {
+                        currencyListVM.removeFromFavorites(currency: item)
+                    }
                 } else {
-                    currencyListVM.appendToFavorites(currency: item)
+                    withAnimation {
+                        currencyListVM.appendToFavorites(currency: item)
+                    }
                 }
                 
             }, label: {

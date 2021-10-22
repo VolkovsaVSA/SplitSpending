@@ -139,7 +139,6 @@ class Home: UIViewController, CNContactPickerDelegate {
             self.present(vc, animated: true, completion: nil)
         }
         
-//
 //        let vc = UIHostingController(rootView: ChooseCurrency(dismiss: {self.dismiss( animated: true, completion: nil )}))
 //        vc.modalPresentationStyle = .fullScreen
 //        present(vc, animated: true, completion: nil)

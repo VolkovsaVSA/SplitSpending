@@ -31,6 +31,14 @@ class Calculate: UIViewController {
         
         if let totalExpensesLocal = totalExpenses, let numberOfPersonLocal = numberOfPerson, let perPersonLocal = perPerson {
             shareObject.append(LocalizedString.date + ": " + MyDateFormatter.formatter(dateStyle: .medium, timeStyle: .short).string(from: Date()))
+            
+            if let costDict = totalCostDictCalculate {
+                costDict.forEach { item in
+                    shareObject.append(item.value.name + ": " + Currency.currencyFormatter(currency: Decimal(Double(item.value.amount ?? 0)), currencyCode: CurrencyViewModel.shared.selectedCurrency.currencyCode, showCode: CurrencyViewModel.shared.showCurrencyCode)
+                    )
+                }
+            }
+            shareObject.append(" ")
             shareObject.append(LocalizedString.ShareMessage.totalExpenses + ": "
                                + Currency.currencyFormatter(currency: Decimal(Double(totalExpensesLocal)),
                                                             currencyCode: CurrencyViewModel.shared.selectedCurrency.currencyCode,
@@ -38,10 +46,9 @@ class Calculate: UIViewController {
             )
             shareObject.append(LocalizedString.ShareMessage.numberOfPersons + ": " + numberOfPersonLocal.description)
             shareObject.append(LocalizedString.ShareMessage.expensesPerPerson + ": "
-                               + Currency.currencyFormatter(currency: Decimal(Double(perPersonLocal)), currencyCode: CurrencyViewModel.shared.selectedCurrency.currencyCode, showCode: CurrencyViewModel.shared.showCurrencyCode))
-            shareObject.append(" ")
+                               + Currency.currencyFormatter(currency: Decimal(Double(perPersonLocal)), currencyCode: CurrencyViewModel.shared.selectedCurrency.currencyCode, showCode: CurrencyViewModel.shared.showCurrencyCode) + "\n"
+            )
             shareObject.append(LocalizedString.ShareMessage.payouts + ":")
-            shareObject.append(" ")
         }
         
         for object in ResultPair {
@@ -49,8 +56,6 @@ class Calculate: UIViewController {
             let payment = "\(object.debtor) \u{2192} \(object.creditor) \(Currency.currencyFormatter(currency: Decimal(Double(object.payment)), currencyCode: CurrencyViewModel.shared.selectedCurrency.currencyCode, showCode: CurrencyViewModel.shared.showCurrencyCode))."
             
             shareObject.append(payment)
-            shareObject.append(" ")
-            
         }
         
         
@@ -59,6 +64,9 @@ class Calculate: UIViewController {
         } else {
             AlertManager.buyFullVersionAlert(vc: self, text: LocalizedString.Alert.Text.toUseThisFeaturePurchaseTheFullVersionOfTheProgramFor)
         }
+        
+//        ShareManager.share.share(object: shareObject, showInController: self)
+
 
     }
         

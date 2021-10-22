@@ -11,7 +11,7 @@ import UIKit
 class ShareManager: NSObject {
     static let share = ShareManager()
     
-    var activityViewController: UIActivityViewController?
+//    var activityViewController: UIActivityViewController?
     
     func share(object: [String], showInController: UIViewController) {
         let ac = UIActivityViewController(activityItems: object, applicationActivities: nil)

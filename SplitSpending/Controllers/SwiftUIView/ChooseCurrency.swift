@@ -18,7 +18,7 @@ struct ChooseCurrency: View {
             CurrencyListView(dismiss: dismiss)
                 .background(Image("backgroundImage100_flipVertical_black-2"))
         }
-        .navigationViewStyle(StackNavigationViewStyle())
+//        .navigationViewStyle(StackNavigationViewStyle())
         .colorScheme(.dark)
         
         
